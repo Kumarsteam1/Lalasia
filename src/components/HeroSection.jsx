@@ -1,4 +1,3 @@
-// src/components/HeroSection.jsx
 import React from 'react';
 import { Container, Form, FormControl, Button } from 'react-bootstrap';
 import "../App.css"

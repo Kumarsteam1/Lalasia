@@ -1,4 +1,3 @@
-// src/components/ArticlesSection.jsx
 import React from "react";
 import "../App.css";
 import article1 from "../assets/articles/article1.jpg";

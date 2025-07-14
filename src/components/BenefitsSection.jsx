@@ -1,4 +1,3 @@
-// src/components/BenefitsSection.jsx
 import React from 'react';
 import icon1 from '../assets/benefit-icon1.png';
 import icon2 from '../assets/benefit-icon2.png';

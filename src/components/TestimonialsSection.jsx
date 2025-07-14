@@ -1,6 +1,5 @@
-// src/components/TestimonialsSection.jsx
 import React from "react";
-import "../App.css"; // Or use a separate TestimonialsSection.css
+import "../App.css";
 import { FaStar } from "react-icons/fa";
 
 const testimonials = [

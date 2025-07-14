@@ -1,4 +1,3 @@
-// src/components/ProductQualitySection.jsx
 import React from "react";
 import "../App.css";
 import imgTools from "../assets/quality/quality-left.png";
