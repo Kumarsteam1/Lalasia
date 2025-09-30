@@ -23,7 +23,7 @@ const Header = () => {
         {/* Logo */}
         <Navbar.Brand href="#home" className="d-flex align-items-center gap-2">
           <img src={Logo} alt="Logo" width="28" height="28" />
-          <span className="fw-bold fs-5 text-dark mb-0">Lalasia</span>
+          <span className="fw-bold fs-5 text-dark mb-0">Lalasiaaa</span>
         </Navbar.Brand>
 
         {/* Toggle for mobile */}
