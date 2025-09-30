@@ -32,9 +32,9 @@ const Header = () => {
         <Navbar.Collapse id="main-navbar" className="justify-content-between">
           {/* Center nav links */}
           <Nav className="mx-auto gap-lg-4 text-center">
-            <Nav.Link href="#product" className="text-dark">Product</Nav.Link>
+            <Nav.Link href="#product" className="text-dark">Products</Nav.Link>
             <Nav.Link href="#services" className="text-dark">Services</Nav.Link>
-            <Nav.Link href="#article" className="text-dark">Article</Nav.Link>
+            <Nav.Link href="#article" className="text-dark">Articles</Nav.Link>
             <Nav.Link href="#about" className="text-dark">About Us</Nav.Link>
           </Nav>
 
