@@ -35,7 +35,7 @@ const Header = () => {
             <Nav.Link href="#product" className="text-dark">Products</Nav.Link>
             <Nav.Link href="#services" className="text-dark">Services</Nav.Link>
             <Nav.Link href="#article" className="text-dark">Articles</Nav.Link>
-            <Nav.Link href="#about" className="text-dark">About Us</Nav.Link>
+            <Nav.Link href="#about" className="text-dark">About Usr</Nav.Link>
           </Nav>
 
           {/* Right icons */}
